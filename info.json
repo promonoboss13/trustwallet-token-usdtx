@@ -1,0 +1,9 @@
+{
+  "name": "USDTX",
+  "symbol": "USDT",
+  "decimals": 18,
+  "address": "0xcF71Aa7F95e67063D5e361550fDb54949952FbD2",
+  "chainId": 1,
+  "website": "https://x.com/EthereumUSDTX",
+  "description": "USDTX is a stablecoin asset aiming to bring reliability and efficiency to Ethereum-based payments."
+}

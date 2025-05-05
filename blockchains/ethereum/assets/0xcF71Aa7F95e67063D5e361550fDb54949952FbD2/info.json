@@ -1,0 +1,8 @@
+{
+  "name": "USDTX",
+  "symbol": "USDTX",
+  "decimals": 18,
+  "address": "0xcF71Aa7F95e67063D5e361550fDb54949952FbD2",
+  "chainId": 1,
+  "logoURI": "https://raw.githubusercontent.com/promonoboss13/trustwallet-token-usdtx/main/blockchains/ethereum/assets/0xcF71Aa7F95e67063D5e361550fDb54949952FbD2/logo.png"
+}
